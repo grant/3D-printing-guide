@@ -8,6 +8,10 @@ A simple guide to 3D printing
 
 ## Quickstart
 
+- Choose a 3D printer
+- Build it from parts (or buy it assemble)
+- Start printing!
+
 ## Printers
 
 - Makerbot
