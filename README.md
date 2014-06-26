@@ -8,13 +8,13 @@ A simple guide to 3D printing
 
 ## What is it used for?
 
-= Prototyping
-= Distributed manufaturing
-= Construction
-= Automotive/aerospace industries
-= Fashion
-= Food
-= And many other fields
+- Prototyping
+- Distributed manufaturing
+- Construction
+- Automotive/aerospace industries
+- Fashion
+- Food
+- And many other fields
 
 ## How does it work?
 
