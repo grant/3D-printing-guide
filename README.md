@@ -18,6 +18,12 @@ A simple guide to 3D printing
 
 ## How does it work?
 
+### Slicing
+
+### GCode
+
+### Building
+
 ## Quickstart
 
 - Choose a 3D printer
