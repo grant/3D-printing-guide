@@ -34,6 +34,8 @@ A simple guide to 3D printing
 
 - PLA
 - ABS
+- Clay
+- Metal
 
 ## Printers
 
