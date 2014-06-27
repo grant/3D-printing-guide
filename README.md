@@ -30,6 +30,11 @@ A simple guide to 3D printing
 - Build it from parts (or buy it assemble)
 - Start printing!
 
+## Filaments 
+
+- PLA
+- ABS
+
 ## Printers
 
 - Makerbot
