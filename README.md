@@ -36,6 +36,7 @@ A simple guide to 3D printing
 - ABS
 - Clay
 - Metal
+- Cement
 
 ## Printers
 
