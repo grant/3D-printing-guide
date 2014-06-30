@@ -20,6 +20,10 @@ A simple guide to 3D printing
 
 ### Slicing
 
+Once we have a 3D model ready that we want to print. To translate the 3D file to a state that a 3D printer can interpret, we need to do a process called slicing.
+
+This is the process of dividing our model into slices parallel to the ground. The 3D printer will print our 3D object one slice at a time.
+
 ### GCode
 
 ### Building
@@ -49,4 +53,4 @@ A simple guide to 3D printing
 
 ## Links
 
-- [http://sudosoldiers.github.io/3d-printing/#/](http://sudosoldiers.github.io/3d-printing/#/)
+- [http://sudosoldiers.github.io/3D-printing/#/](http://sudosoldiers.github.io/3D-printing/#/)
