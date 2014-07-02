@@ -26,6 +26,8 @@ This is the process of dividing our model into slices parallel to the ground. Th
 
 ### GCode
 
+Once we have our slices, since every 3D printer can be different, we need to traslate this into code that our machine can read and execute instructions. This is the process of creating GCode, a simple programming language almost like assembly that is run in sequence by a 3D printer.
+
 ### Building
 
 ## Quickstart
