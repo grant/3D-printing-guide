@@ -34,7 +34,7 @@ This is the process of dividing our model into slices parallel to the ground. Th
 - Build it from parts (or buy it assemble)
 - Start printing!
 
-## Filaments 
+## Filaments
 
 - PLA
 - ABS
