@@ -30,6 +30,8 @@ Once we have our slices, since every 3D printer can be different, we need to tra
 
 ### Building
 
+Printing takes anywhere from 10 minutes to 10 hours.
+
 ## Quickstart
 
 - Choose a 3D printer
