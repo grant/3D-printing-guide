@@ -30,7 +30,7 @@ Once we have our slices, since every 3D printer can be different, we need to tra
 
 ### Building
 
-Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printing is making sure the print sticks to the print board.
+Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printing is making sure the print sticks to the print board. Covering the print board with blue electrical tapes can help the platic to stick to the surface.
 
 ## Quickstart
 
