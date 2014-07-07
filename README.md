@@ -44,7 +44,7 @@ Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printin
 - ABS
 - Clay
 - Metal
-- Cement
+- Cement (for large printers)
 
 ## Printers
 
