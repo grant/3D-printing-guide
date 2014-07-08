@@ -55,6 +55,8 @@ Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printin
   - [Makerbot Replicator 2](http://store.makerbot.com/replicator2)
   - [Makerbot Replicator 2x](http://store.makerbot.com/replicator2x)
 
+- [Form 1+ Printer](http://formlabs.com/products/form-1-plus/?gclid=CJzaxcvq1L8CFYpffgodEVQAnQ)
+
 ## Links
 
 - [http://sudosoldiers.github.io/3D-printing/#/](http://sudosoldiers.github.io/3D-printing/#/)
