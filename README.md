@@ -57,6 +57,7 @@ Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printin
 
 - [Form 1+ Printer](http://formlabs.com/products/form-1-plus/?gclid=CJzaxcvq1L8CFYpffgodEVQAnQ)
 - [Prusa Mendel](http://reprap.org/wiki/Prusa_Mendel_(iteration_2))
+- [Durbie Prusa Mendel](http://reprap.org/wiki/DurbiePrusaMendel)
 
 ## Links
 
