@@ -59,6 +59,7 @@ Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printin
 - [Durbie Prusa Mendel](http://reprap.org/wiki/DurbiePrusaMendel)
 - [RepRapPro Huxley](https://reprappro.com/documentation/huxley/)
 - [Fablicator](http://www.fablicator.com/)
+- [Zprinter 150](http://www.zcorp.com/es/Products/3D-Printers/ZPrinter-150/spage.aspx)
 
 ## Links
 
