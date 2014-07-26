@@ -61,6 +61,7 @@ Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printin
 - [Fablicator](http://www.fablicator.com/)
 - [Zprinter 150](http://www.zcorp.com/es/Products/3D-Printers/ZPrinter-150/spage.aspx)
 - [Kossel](http://reprap.org/wiki/Kossel)
+- [Cube 3](http://www.studica.com/us/en/3D-Systems-3D-Printers/cube-3/391100.html?utm_source=google&utm_medium=ppc&kpid=790977&gclid=CMWOtN6r578CFc1_Mgodqn0ALQ`)
 
 ## Links
 
