@@ -65,4 +65,4 @@ Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printin
 
 ## Links
 
-- [http://sudosoldiers.github.io/3D-printing/#/](http://sudosoldiers.github.io/3D-printing/#/)
+- [Sudo Soldiers talk on 3D Printing](http://sudosoldiers.github.io/3D-printing/#/)
