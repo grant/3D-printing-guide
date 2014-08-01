@@ -14,7 +14,6 @@ A simple guide to 3D printing
 - Automotive/aerospace industries
 - Fashion
 - Food
-- Organs
 - And many other fields
 
 ## How does it work?
