@@ -48,7 +48,7 @@ Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printin
 
 ## Printers
 
-- Makerbot
+- [Makerbot](http://makerbot.com/)
   - [Makerbot Replicator Mini](http://store.makerbot.com/replicator-mini)
   - [Makerbot Replicator](http://store.makerbot.com/replicator)
   - [Makerbot Replicator Z18](http://store.makerbot.com/replicator-z18)
