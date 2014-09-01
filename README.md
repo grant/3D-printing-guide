@@ -38,6 +38,7 @@ Printing takes anywhere from 10 minutes to 10 hours. The hardest part of printin
 - Choose a 3D printer
 - Build it from parts (or buy it assemble)
 - Build or download an STL
+- Adjust the print size
 - Start printing!
 
 ## Filaments
