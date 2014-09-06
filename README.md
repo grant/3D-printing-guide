@@ -69,6 +69,7 @@ Printers cost anywhere between $500 to $2000
 - [Cube 3](http://www.studica.com/us/en/3D-Systems-3D-Printers/cube-3/391100.html?utm_source=google&utm_medium=ppc&kpid=790977&gclid=CMWOtN6r578CFc1_Mgodqn0ALQ`)
 - [Afinia H-Series](http://www.bestbuy.com/site/all-printers/3d-printers/pcmcat304600050007.c?id=pcmcat304600050007)
 - [Mark One](https://markforged.com/)
+- [The Micro](https://www.kickstarter.com/projects/m3d/the-micro-the-first-truly-consumer-3d-printer)
 
 ## Links
 
